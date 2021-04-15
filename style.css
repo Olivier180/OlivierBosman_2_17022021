@@ -784,7 +784,7 @@ footer ul li a:hover
     flex-direction: column;
   }
 
-  .hebergements {
+  #hebergements {
     width: 100%;
     left: 50%;
     margin-bottom: 20px;
